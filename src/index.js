@@ -1,4 +1,5 @@
 import React from 'react';
+//slightly different from what is in module
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
